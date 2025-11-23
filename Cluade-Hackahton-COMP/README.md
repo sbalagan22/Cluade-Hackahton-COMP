@@ -105,7 +105,7 @@ Parliament Watch is a comprehensive web platform that brings Canadian federal po
 
 ### **Backend & Services**
 - **Supabase** - PostgreSQL database and edge functions
-- **Google Gemini 2.0 Flash** - AI language model
+- **Claude 3.5 Haiku** - AI language model
 - **OpenParliament.ca API** - Canadian parliamentary data
 
 ### **Development Tools**
@@ -167,3 +167,4 @@ Political news aggregated from:
 Made with ❤️ for Canadian democracy
 
 </div>
+
